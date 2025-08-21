@@ -1,2 +1,2 @@
 # prueba
-Subi carpeta Tarea 2
+Subi carpeta Tarea 2.
